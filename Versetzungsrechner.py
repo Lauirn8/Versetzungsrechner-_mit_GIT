@@ -10,8 +10,8 @@ def frage_nach_prozenten(lernfeld):
 def bestimme_note(prozent):
     note = 6
     # bestimme hier abhängig vom eingegeben Prozentwert die Note
-    pass
-    return note
+
+     return note
 
 
 def bestimme_summe_der_note(note, lf1, lf2, lf3, lf5, deutsch, politik, sport):
